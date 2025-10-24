@@ -47,10 +47,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIzd3l1MzVwNHN4cjd0ZzNyZTgxd2c3ZTM2YzR3cWFhZTlqcmJldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
-
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DLNascimento&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DLNascimento&locale=pt-br&hide_title=false&layout=default&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
-###
